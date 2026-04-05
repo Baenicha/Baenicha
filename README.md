@@ -2,12 +2,13 @@
 
 I am a final-year Computer Science student at Hogeschool Leiden. 💕 *almost!*
 
-Baenicha, what are you currently working on?
-<br/>*I am working on finishing school.*
+
+### Baenicha, what are you currently working on?
+*I am working on finishing school.*
 <br/>Currently, I am working on my personal portfolio website, which will be launching soon!
 
-Outside of coding I..
-<br/> 👾 am a gamer
+### Outside of coding I..
+👾 am a gamer
 <br/> 🏍️ love riding my motorcycle
 <br/> 🌸 admire nature
 
