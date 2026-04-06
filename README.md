@@ -10,7 +10,7 @@ I am a final-year Computer Science student at Hogeschool Leiden. 💕 *almost!*
 ### Outside of coding I..
 👾 am a gamer
 <br/> 🏍️ love riding my motorcycle
-<br/> 🌸 admire nature
+<br/> 🌸 enjoy being in nature
 
 
 <!--
